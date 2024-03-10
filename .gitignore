@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+
+# Yarn
+.yarn/
+yarn-error.log
+yarn.lock
+
+# Build files
+/build/
+/dist/
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+/logs/
+*.log
+npm-debug.log*
+
+# User-specific files
+.DS_Store
+Thumbs.db
+
+# Output of 'npm pack'
+*.tgz
+
+
+# Prettier files
+# **/.prettier
+# **/.prettierignore
+# **/.prettierrc
+
+**/public
+
+
